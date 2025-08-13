@@ -208,15 +208,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
   "active": "49d3641241458694",
   "lastOpenFiles": [
-    "章节/第1章 异常的周末.md",
-    "Readme.md",
-    "章节/第27章 验证与勇气.md",
     "Web3安全知识点TODO.md",
+    "Readme.md",
+    "章节/第1章 异常的周末.md",
+    "章节/第27章 验证与勇气.md",
     "原始的大纲.md",
     "角色人设档案.md",
     "章节/第19章  银行的警示.md",

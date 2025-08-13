@@ -1,4 +1,8 @@
 # Web3安全小说 - 目录
+
+
+这是一本以Web3安全为背景，采用日式纯爱小说风格进行的创作
+
 =======
 
 [第1章 异常的周末](./章节/第1章%20异常的周末.md)
@@ -57,4 +61,11 @@
 
 ---
 
-*这是一本以Web3安全为背景，透过日式纯爱小说风格进行的创作*
+如果有任何意见可以[在此讨论](https://github.com/punkcanyang/Web3BookSecurityNovel/discussions)
+
+### 友情支持：
+- [KeyMap](https://x.com/KeyMapDAO)
+- [南塘DAO](ntdao.xyz)
+
+
+欢迎进行二创，改编成GLA游戏，或是番外篇
